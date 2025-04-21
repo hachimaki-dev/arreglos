@@ -22,3 +22,7 @@ estudiantes = [
 print(estudiantes)
 print('######')
 print( estudiantes[0]['curso'] )
+
+#Wena profe soy alan
+
+
