@@ -24,3 +24,6 @@ print('######')
 print( estudiantes[0]['curso'] )
 
 #ola profe soy amador 😎 :v
+
+#LOL, equizde
+
